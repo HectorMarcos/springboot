@@ -1,0 +1,13 @@
+2022-06-23 12:29:42.281  INFO 9880 --- [restartedMain] com.example.demo.DemoApplication         : Starting DemoApplication using Java 11.0.15 on Formacion13 with PID 9880 (C:\Users\FORMACIÓN\Desktop\demo\target\classes started by FORMACIÓN in C:\Users\FORMACIÓN\Desktop\demo)
+2022-06-23 12:29:42.285  INFO 9880 --- [restartedMain] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2022-06-23 12:29:42.449  INFO 9880 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-06-23 12:29:42.450  INFO 9880 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-06-23 12:29:45.465  INFO 9880 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-06-23 12:29:45.491  INFO 9880 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-06-23 12:29:45.491  INFO 9880 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-23 12:29:45.698  INFO 9880 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-06-23 12:29:45.725  INFO 9880 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 3274 ms
+2022-06-23 12:29:46.340  INFO 9880 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2022-06-23 12:29:46.617  INFO 9880 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-06-23 12:29:46.689  INFO 9880 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-06-23 12:29:46.721  INFO 9880 --- [restartedMain] com.example.demo.DemoApplication         : Started DemoApplication in 5.531 seconds (JVM running for 7.094)
