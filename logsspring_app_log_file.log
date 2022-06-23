@@ -264,3 +264,21 @@ javax.servlet.ServletException: Circular view path []: would dispatch back to th
 2022-06-23 13:42:09.925  INFO 14564 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
 2022-06-23 13:42:09.926  INFO 14564 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
 2022-06-23 13:42:09.927  INFO 14564 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2022-06-23 15:09:12.829  INFO 7572 --- [restartedMain] com.example.demo.DemoApplication         : Starting DemoApplication using Java 11.0.15 on Formacion13 with PID 7572 (C:\Users\FORMACIÓN\Desktop\demo\target\classes started by FORMACIÓN in C:\Users\FORMACIÓN\Desktop\demo)
+2022-06-23 15:09:12.832  INFO 7572 --- [restartedMain] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2022-06-23 15:09:12.977  INFO 7572 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-06-23 15:09:12.977  INFO 7572 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-06-23 15:09:17.392  INFO 7572 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-06-23 15:09:17.419  INFO 7572 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-06-23 15:09:17.420  INFO 7572 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-23 15:09:17.915  INFO 7572 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-06-23 15:09:18.033  INFO 7572 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 5055 ms
+2022-06-23 15:09:19.558  INFO 7572 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2022-06-23 15:09:20.057  INFO 7572 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-06-23 15:09:20.240  INFO 7572 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-06-23 15:09:20.312  INFO 7572 --- [restartedMain] com.example.demo.DemoApplication         : Started DemoApplication in 8.347 seconds (JVM running for 9.332)
+2022-06-23 15:09:20.327  INFO 7572 --- [restartedMain] com.example.demo.DemoApplication         : An INFO Message
+2022-06-23 15:09:20.328  WARN 7572 --- [restartedMain] com.example.demo.DemoApplication         : An WARN Message
+2022-06-23 15:09:32.064  INFO 7572 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-06-23 15:09:32.066  INFO 7572 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-06-23 15:09:32.067  INFO 7572 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
